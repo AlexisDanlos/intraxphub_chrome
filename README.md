@@ -5,7 +5,7 @@ This extension is based on the amazing https://github.com/hugo-bach/countHubXp m
 
 ![alt text](https://nsa40.casimages.com/img/2021/02/22//210222040503169949.jpg)
 
-It actually support :
+It currently supports :
 
 - Hackathon
 - Workshop / CodingBattle
